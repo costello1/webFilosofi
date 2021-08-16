@@ -1,0 +1,290 @@
+.App {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.home--tab {
+    justify-content: center;
+    border-color: transparent;
+}
+
+.modal-content {
+    border-radius: 30px !important;
+    background-color: #1c242b;
+}
+
+.modal--voti {
+    text-align: center;
+    padding: 10px;
+}
+
+.azienda--modal {
+    font-size: 30px;
+    font-weight: 800;
+    color: #000;
+    text-transform: uppercase;
+}
+
+.modal--nome--varieta {
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(160, 63, 63);
+}
+
+.tab_bg {
+    border-radius: 50px;
+    background: #1c242b;
+}
+
+.nav-link.active {
+    color: #fff !important;
+    background-color: #1c242b !important;
+    border-color: #1c242b !important;
+}
+
+.nav-tabs .nav-link {
+    margin-bottom: -1px;
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    background: rgb(94, 66, 105);
+}
+
+a {
+    color: rgb(194, 194, 194) !important;
+    text-decoration: none;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.sopra {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.tre--pallini {
+    color: white;
+    padding-top: 1%;
+}
+
+.tre--pallini_contenuto {
+    justify-content: flex-end;
+    margin-right: 0px !important;
+}
+
+.per--commenti {
+    text-align: center;
+    color: red;
+}
+
+.commenti {
+    width: 60%;
+    margin: 0 auto;
+    flex-flow: row;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px 0 rgb(0 0 0 / 20%), -8px -8px 8px 0 rgb(255 255 255 / 4%) !important;
+    color: #fff;
+    background-color: #1c242b;
+    border-color: #1c242b;
+    border-radius: 10px;
+}
+
+.imput--commenti {
+    text-align: center;
+    color: rgb(216, 216, 218);
+    padding-top: 2%;
+    font-weight: 600;
+}
+
+.imput--commento {
+    text-align: center;
+    color: rgb(194, 194, 194);
+    padding-top: 2%;
+    font-weight: 400;
+    font-size: small;
+}
+
+.commenti--contenuti {
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 5%;
+    word-break: break-all;
+}
+
+.per--like {
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: -35px;
+}
+
+.modal-body {
+    background: #2c2c32;
+}
+
+.App {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.home--tab {
+    justify-content: center;
+    border-color: transparent;
+}
+
+.modal-content__img {
+    border-radius: 30px !important;
+}
+
+.azienda--modal {
+    font-size: 30px;
+    font-weight: 800;
+    color: white;
+    text-transform: uppercase;
+}
+
+.modal--nome--varieta {
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+.tab_bg {
+    border-radius: 50px;
+    background: #2c2c32;
+}
+
+.nav-link.active {
+    color: #fff !important;
+    background-color: #2c2c32 !important;
+    border-color: #2c2c32 !important;
+}
+
+.nav-tabs .nav-link {
+    margin-bottom: -1px;
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+    background: rgb(94, 66, 105);
+}
+
+a {
+    color: rgb(194, 194, 194) !important;
+    text-decoration: none;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+
+.row {
+    display: -webkit-box !important;
+    flex-wrap: wrap-reverse!important;
+    margin-right: -15px !important;
+    margin-left: 50px !important;
+    margin-bottom: 15px !important;
+    padding-left: 26%;
+}
+
+.dropdown-item {
+    display: block !important;
+    width: 100% !important;
+    padding: .25rem 1.5rem !important;
+    clear: both !important;
+    font-weight: 400 !important;
+    color: #212529 !important;
+    text-align: inherit !important;
+    white-space: nowrap !important;
+    background-color: transparent !important;
+    border: 0 !important;
+}
+
+.btn {
+    color: white !important;
+}
+
+.invia-commento {
+    margin-left: 10px;
+    margin-top: -4px;
+}
+
+.input-commento {
+    width: 250px;
+    height: 40px;
+    font-size: 20px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+
+.per-commentare {
+    width: 324px;
+    height: 80px;
+    margin: 0 auto;
+}
+
+.input-varieta {
+    margin-top: 2px;
+}
+
+.due-input {
+    display: flex;
+}
+
+.modal-header {
+    background: #2c2c32;
+    margin-bottom: -1px;
+    border-radius: 25px 25px 0px 0px;
+}
+
+.close {
+    color: white !important;
+}
+
+.modal-footer {
+    background: #2c2c32;
+    margin-top: -1px;
+    border-radius: 0px 0px 25px 25px;
+}
+
+@media screen and (max-width: 480px) {
+    .row {
+        padding-left: 0%;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    .row {
+        padding-left: 0%;
+    }
+}
+
+@media screen and (max-width: 514px) {
+.table td, .table th {
+    padding: 0.10rem;
+    vertical-align: middle; 
+    border-top: 1px solid #dee2e6;
+}
+
+.ranking {
+    padding-right: 3%;
+    padding-left: 3%;
+}
+}

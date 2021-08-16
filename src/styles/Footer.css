@@ -1,0 +1,97 @@
+.main-footer {
+    color: white;
+    background-color: #2c2c32;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+.grid-company {
+    margin: 0 auto;
+    overflow: hidden;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+.grid_company{
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+.grid_carusel{
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+
+.grid--center {
+    padding: 20px;
+}
+
+.col {
+    flex: 1;
+}
+
+[class*='col-'] {
+    position: relative;
+}
+
+.col-20 {
+    width: 20%;
+}
+
+.col-25 {
+    width: 25%;
+}
+
+.col-30 {
+    width: 30%;
+}
+
+.col-33 {
+    width: 33.33%;
+}
+
+.col-40 {
+    width: 40%;
+}
+
+.col-45 {
+    width: 45%;
+}
+
+.col-50 {
+    width: 50%;
+}
+
+.col-60 {
+    width: 60%;
+}
+
+.col-65 {
+    width: 65%;
+}
+
+.col-70 {
+    width: 70%;
+}
+
+.col-80 {
+    width: 80%;
+}
+
+.col-100 {
+    width: 100%;
+}
